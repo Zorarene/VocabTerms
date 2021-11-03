@@ -37,7 +37,6 @@ public String toString(){
     return sb.toString();
 }
 
-
     public String[] toArray(String[] strings) {
         return (String[]) Arrays.stream(strings).toArray();
     }
